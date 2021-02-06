@@ -1,5 +1,1 @@
-# actions_testing
-
-Throwaway repository for testing draft Actions.
-
-Hello.
+This is the readme
